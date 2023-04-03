@@ -1,0 +1,141 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 595px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 50px auto 0 475px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 314px;
+  height: 400px;
+  margin: 23px auto 0 81px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 156px;
+  height: 400px;
+  margin: -393px 222px 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 19px 265px 0 auto;
+  padding: 7px 30px 8px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: -37px auto 31px 174px;
+  padding: 7px 30px 8px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 550px;
+    margin-left: 384px;
+    font-weight: normal;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -477px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -67px;
+    margin-right: 275px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-bottom: 60px;
+    margin-left: 203px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: -31px;
+    margin-right: 268px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 26px;
+    margin-left: 26px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 105px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 96px;
+    margin-right: 87px;
+    padding-right: 56px;
+    padding-left: 55px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -54px;
+    margin-left: 96px;
+    padding-right: 92px;
+    padding-left: 91px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 532px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -543px;
+    margin-left: 12px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: -17px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 44px;
+    margin-right: 46px;
+    padding-right: 42px;
+    padding-left: 41px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -37px;
+    margin-left: 44px;
+    padding-right: 75px;
+    padding-bottom: 7px;
+    padding-left: 73px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 179px;
+    height: 340px;
+    margin-top: -483px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 480px;
+}
